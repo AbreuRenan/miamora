@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url('https://fonts.cdnfonts.com/css/christmas-story');
+
+
+.miamora-font-display {
+    font-family: 'Christmas Story', sans-serif;
+}
+.miamora-font-text {
+    font-family: 'Maven Pro', sans-serif;
+}
+.hotsite-title {
+    color: #761B68;
+    font-size: 4rem;
+}
+.hotsite-text {
+    color: #666666;
+    font-size: 2rem;
+}
+.hotsite-logo {
+    position: absolute;
+    color: #FFFFFF;
+    top: 45%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 2.25rem;
+    line-height: 0.85;
+    max-width: 120px;
+}
+.hotsite-logo-sub {
+    position: absolute;
+    color: #FFFFFF;
+    top: 75%;
+    font-size: 0.85rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+::placeholder {
+    opacity: 0.1;
+    color: rgba(127, 127, 127, 0.5)!important;
+}

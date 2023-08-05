@@ -1,3 +1,15 @@
+@import "./node_modules/normalize.css/normalize.css";
+@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "/_css/tipo.css";
+@import "/_css/utility.css  ";
+
+
+
+body {
+    height: 100vh;
+    width: 100%;
+}
+
 .stripe {
     background: repeating-linear-gradient(
       -65deg,
@@ -8,7 +20,11 @@
     );
   }
 
-  img {
-    height: 200px;
-    width: fit-content;
+  .logo-img {
+    background-image: url("/assets/imgs/amora_silhueta.svg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35vh;
+    width: 100%;
   }
