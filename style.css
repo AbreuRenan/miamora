@@ -1,5 +1,5 @@
-@import "./node_modules/normalize.css/normalize.css";
-@import "/node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "/_css/normalize.css";
+@import "/_css/bootstrap.min.css";
 @import "/_css/tipo.css";
 @import "/_css/utility.css  ";
 
