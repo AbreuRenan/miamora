@@ -1,0 +1,14 @@
+.stripe {
+    background: repeating-linear-gradient(
+      -65deg,
+      #c4efe6,
+      #c4efe6 20px,
+      #b4ecdf 20px,
+      #b4ecdf 30px
+    );
+  }
+
+  img {
+    height: 200px;
+    width: fit-content;
+  }

@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/AbreuRenan/miamora/issues"
   },
-  "homepage": "https://github.com/AbreuRenan/miamora#readme"
+  "homepage": "https://github.com/AbreuRenan/miamora#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "eslint": "^8.46.0",
+    "jquery": "^3.7.0"
+  }
 }
