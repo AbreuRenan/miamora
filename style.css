@@ -1,7 +1,7 @@
-@import "/_css/normalize.css";
-@import "/_css/bootstrap.min.css";
-@import "/_css/tipo.css";
-@import "/_css/utility.css  ";
+@import "./_css/normalize.css";
+@import "./_css/bootstrap.min.css";
+@import "./_css/tipo.css";
+@import "./_css/utility.css  ";
 
 
 
@@ -21,7 +21,7 @@ body {
   }
 
   .logo-img {
-    background-image: url("/assets/imgs/amora_silhueta.svg");
+    background-image: url("./assets/imgs/amora_silhueta.svg");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
