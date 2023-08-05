@@ -1,0 +1,24 @@
+{
+  "name": "miamora",
+  "version": "0.1.0",
+  "description": "Projeto para a Doceria Mi Amora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbreuRenan/miamora.git"
+  },
+  "keywords": [
+    "doceria",
+    "site",
+    "webapp"
+  ],
+  "author": "Renan Abreu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbreuRenan/miamora/issues"
+  },
+  "homepage": "https://github.com/AbreuRenan/miamora#readme"
+}
