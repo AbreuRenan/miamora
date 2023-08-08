@@ -1,6 +1,9 @@
-.btn-roxo {
+.btn.btn-roxo {
     background-color: #761b68;
     color: #FFF;
+}
+.btn.btn-roxo:hover {
+    background-color: #911a7f;
 }
 .relative {
     position: relative;
