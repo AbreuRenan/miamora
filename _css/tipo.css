@@ -10,7 +10,8 @@
 }
 .hotsite-title {
     color: #761B68;
-    font-size: 4rem;
+    font-size: 4.25rem;
+    width: min-content;
 }
 .hotsite-text {
     color: #666666;
